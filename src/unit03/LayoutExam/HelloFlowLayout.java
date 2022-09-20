@@ -26,7 +26,7 @@ public class HelloFlowLayout extends JFrame {
 	public static void main(String[] args) {
 		
 		new HelloFlowLayout();
-
+///
 	}
 
 }
